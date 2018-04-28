@@ -1,2 +1,2 @@
 # OneLiners
-Collections of PowerShell one-liners
+Collection of PowerShell one-liners
